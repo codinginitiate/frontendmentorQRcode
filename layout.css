@@ -1,0 +1,35 @@
+
+body{
+  background-color: #D1E8E4;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.center {
+  background-color: white;
+  height: 550px;
+  width: 350px;
+  border-radius: 5%;
+  margin: 150px auto auto auto;
+  text-align: center;
+}
+
+img{
+  height: 325px;
+  width:  325px;
+  border-radius: 5%;
+  margin-top: 10px;
+}
+
+.imghead {
+  font-size: 1.25rem;
+  font-weight: 900;
+  margin: 25px 25px auto 25px;
+}
+
+.imgsub {
+  color: #716F81;
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 25px 25px auto 25px;
+}
